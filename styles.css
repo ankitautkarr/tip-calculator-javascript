@@ -1,0 +1,97 @@
+body {
+  
+    background: rgb(233, 255, 155)
+    
+  }
+  
+  #container {
+    height: 525px;
+    width: 360px;
+    margin: 100px auto;
+    background: #f7f7f7;
+    border-radius: 20px;
+  
+  }
+  
+  
+  h1 {
+    background: #AD133A;
+    color: white;
+    margin: 0;
+    padding: 10px 100px;
+    font-size: 18px;
+    font-weight: normal;
+   border-top-left-radius: 20px;
+   border-top-right-radius: 20px;
+  }
+  
+  p {
+    padding-left: 20px;
+  }
+  
+  form input[type="text"] {
+    width: 90px;
+  }
+  
+  input {
+    padding-left: 20px;
+  }
+  
+  #bill {
+    font-size: 14px;
+    
+    color: red;
+    background-color: white;
+    width: 60%;
+    padding: 5px 5px 8px 8px;
+  }
+  
+  #billamt:focus {
+    background: #fff;
+    border: 3px solid #2980b9;
+    outline: none;
+  }
+  
+  #sharingNo {
+    width: 60%;
+    padding: 5px 5px 8px 8px;
+    margin-left: 40px;
+    color: red;
+    background-color: #f7f7f7;
+    font-size: 14px;
+  
+  }
+  
+
+  
+  #tipPercentage {
+    padding: 5px 5px 8px 8px;
+    margin-left: 20px;
+    font-size: 14px;
+  }
+  
+  button {
+  
+    font-weight: bold;
+    display: block;
+    margin: 20px auto;
+    background: #AD133A;
+    border-radius: 5px;
+    width: 200px;
+    height: 50px;
+    font-size: 17px;
+    color: white;
+    cursor: pointer;
+  }
+  
+  #finaleTip {
+    font-size: 25px;
+    margin-top: 5px;
+    text-align: center;
+  }
+  
+  
+
+
+  
+ 
